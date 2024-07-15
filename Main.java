@@ -29,7 +29,7 @@ public class Main {
             System.out.println("Opção indísponível");
         }
 
-        System.out.println("\n\nEu Ana Clara Ferreira Joaquim da empresa de tecnologia - Agradecemos pelo seu cadastro!");
+        System.out.println("\n\nEu da empresa de tecnologia - Agradecemos pelo seu cadastro!");
 
         if (esc == 1){
             cC.getAllP();
