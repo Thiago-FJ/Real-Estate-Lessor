@@ -45,7 +45,7 @@ Funcionalidades:
 Clientes deverão escolher o que desejam fazer;
 	1° opção - somente cadastro (escolher entre os tipos)
 	
-Exibir no final "Eu Ana Clara Ferreira Joaquim da empresa de tecnologia - Agradecemos pelo seu cadastro!"
+Exibir no final "Eu da empresa de tecnologia - Agradecemos pelo seu cadastro!"
 
 Exibir dados cadastrados;
 
